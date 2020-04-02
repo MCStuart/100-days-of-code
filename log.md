@@ -10,7 +10,7 @@
 
 ### Day 1: April 1, 2020 
 
-**Today's Progress**: Started the [Random Quote Machine](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine) project from [FreeCodeCamp.org](https://www.freecodecamp.org). I spent most of my time today working with Paper Quote API and not succeeding. 
+**Today's Progress**: Started the [Random Quote Machine](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine) project from FreeCodeCamp.org. I spent most of my time today working with Paper Quote API and not succeeding. 
 
 **Thoughts:** I still have trouble starting projects. It took me until later in the day to *actually* sit down and start, but I did and that's what counts. I'm using React and Hooks for this project and am excited to get to useEffect().
 
