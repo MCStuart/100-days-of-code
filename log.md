@@ -20,4 +20,6 @@
 
 **Today's Progress** Successfully implemented a quote API with onClick to fetch a random tech quote! Functional twitter button to tweet out the current quote with author, suggested hashtags, and 'via @' acknowledgement. Found the encodeURI() feature so I didn't have to regex the whole quote to clean it for imbedding it in the twitter href URI.
 
+**Link to work:** [Random Quote Machine](https://github.com/MCStuart/random-quote-generator)
+
 **Thoughts** I was barking up the wrong tree with the Paper Quotes API. I found a new API, [Programming Quotes](http://quotes.stormconsultancy.co.uk/api) to use last night will watching a movie, swapped it out today and fired it up to almost instant success. Be careful, as some of the quotes can be a little raunchy, but programmers have never been known for their social prowess. I used the css grid to center the quote box, but the styling looks amature at best. I'd like to spend tomorrow giving it a real nice coat of paint. It's something I have often struggled with. 
