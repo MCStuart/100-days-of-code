@@ -7,3 +7,11 @@
 **Thoughts:** I really enjoyed getting back into development work. I know I didn't challenge myself a lot mentally today since it was more of a 'type-after-me' exercise, but it was enjoyable to hop back on the horse after letting life get me sidetracked. 
 
 **Link to work:** [Tic-Tac-Toe](https://github.com/MCStuart/tic-tac-toe)
+
+### Day 1: April 1, 2020 
+
+**Today's Progress**: Started the [Random Quote Machine](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine) project from [FreeCodeCamp.org](https://www.freecodecamp.org). I spent most of my time today working with Paper Quote API and not succeeding. 
+
+**Thoughts:** I still have trouble starting projects. It took me until later in the day to *actually* sit down and start, but I did and that's what counts. I'm using React and Hooks for this project and am excited to get to useEffect().
+
+**Link to work:** [Random Quote Machine](https://github.com/MCStuart/random-quote-generator)
