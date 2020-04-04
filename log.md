@@ -20,6 +20,14 @@
 
 **Today's Progress** Successfully implemented a quote API with onClick to fetch a random tech quote! Functional twitter button to tweet out the current quote with author, suggested hashtags, and 'via @' acknowledgement. Found the encodeURI() feature so I didn't have to regex the whole quote to clean it for imbedding it in the twitter href URI.
 
+**Thoughts** I was barking up the wrong tree with the Paper Quotes API. I found a new API, [Programming Quotes](http://quotes.stormconsultancy.co.uk/api) to use last night will watching a movie, swapped it out today and fired it up to almost instant success. Be careful, as some of the quotes can be a little raunchy, but programmers have never been known for their social prowess. I used the css grid to center the quote box, but the styling looks amature at best. I'd like to spend tomorrow giving it a real nice coat of paint. It's something I have often struggled with. 
+
 **Link to work:** [Random Quote Machine](https://github.com/MCStuart/random-quote-generator)
 
-**Thoughts** I was barking up the wrong tree with the Paper Quotes API. I found a new API, [Programming Quotes](http://quotes.stormconsultancy.co.uk/api) to use last night will watching a movie, swapped it out today and fired it up to almost instant success. Be careful, as some of the quotes can be a little raunchy, but programmers have never been known for their social prowess. I used the css grid to center the quote box, but the styling looks amature at best. I'd like to spend tomorrow giving it a real nice coat of paint. It's something I have often struggled with. 
+### Day 3:: April 3, 2020
+
+**Today's Progress** Styled Random Quote Machine to make it look less like a 90's webpage (It still does though). Added Twitter logo as the anchor tag button, spread buttons to far bottom corners, moved author attribute to be right justified to look better stylistically 
+
+**Thoughts** CSS is *hard*. It is something that I don't jive with. I always work until MVP and never spent any time working with styles so it is by far the weakest part of my repertoire. I think I naturally gravitate towards back-end work but I'm not experienced enough to make that declaration for sure. The problem as I see it is that styling feels like 'wasted' time for me. Making it look good doesn't make it work, but I realize it has to look good to get anyone to even look at it in the first place, unless it cures cancer or something and the product's merit is enough to carry it, which my projects certainly are not. 
+
+**Link to work:** [Random Quote Machine](https://github.com/MCStuart/random-quote-generator)
