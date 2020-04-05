@@ -16,7 +16,7 @@
 
 **Link to work:** [Random Quote Machine](https://github.com/MCStuart/random-quote-generator)
 
-### Day 2:: April 2, 2020
+### Day 2: April 2, 2020
 
 **Today's Progress** Successfully implemented a quote API with onClick to fetch a random tech quote! Functional twitter button to tweet out the current quote with author, suggested hashtags, and 'via @' acknowledgement. Found the encodeURI() feature so I didn't have to regex the whole quote to clean it for imbedding it in the twitter href URI.
 
@@ -24,7 +24,7 @@
 
 **Link to work:** [Random Quote Machine](https://github.com/MCStuart/random-quote-generator)
 
-### Day 3:: April 3, 2020
+### Day 3: April 3, 2020
 
 **Today's Progress** Styled Random Quote Machine to make it look less like a 90's webpage (It still does though). Added Twitter logo as the anchor tag button, spread buttons to far bottom corners, moved author attribute to be right justified to look better stylistically 
 
@@ -32,10 +32,18 @@
 
 **Link to work:** [Random Quote Machine](https://github.com/MCStuart/random-quote-generator)
 
-### Day 4:: April 4, 2020
+### Day 4: April 4, 2020
 
 **Today's Progress** Started a SMS messaging service with cron-job scheduler to send appropriate reminders to specific people for household chores (thanks corona). I have single messaging and cron-scheduled tasks down reliably, but broke everything last minute.
 
 **Thoughts** Twilio is a lot of fun. I tried to send out a batch job without using their messaging service for batch SMS jobs and it predictably didn't work. I changed it back to just my number to make sure everything else was still working but left the loop in so accidentally sent myself a huge amount of texts, almost locking up my phone before I realized what had happened. Whoops!
+
+**Link to work:** [House Scheduler](https://github.com/MCStuart/house-scheduler)
+
+### Day 5: April 5, 2020
+
+**Today's Progress** Successfuly completed MVP of Twilio SMS reminders sent daily at noon (12pm). Using Moment.js to easily parse the day of the week, appropriate housemates (with corresponding phone number) are selected and sent their assigned chore message of the day. 
+
+**Thoughts** I had a lot of fun and easily spent twice as long as I thought did just tinkering. It is MVP and a certifiable mess of spagetti-code, but it works. I would love to find someone else to help me restructure this in a more professional way. It also needs a databse so the chores, housemates, phone numbers, etc. can be more easily altered. As it is, it's all hardcoded. There is also need for a hosting service so that I don't have to run it off my local computer. 
 
 **Link to work:** [House Scheduler](https://github.com/MCStuart/house-scheduler)
