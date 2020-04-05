@@ -31,3 +31,11 @@
 **Thoughts** CSS is *hard*. It is something that I don't jive with. I always work until MVP and never spent any time working with styles so it is by far the weakest part of my repertoire. I think I naturally gravitate towards back-end work but I'm not experienced enough to make that declaration for sure. The problem as I see it is that styling feels like 'wasted' time for me. Making it look good doesn't make it work, but I realize it has to look good to get anyone to even look at it in the first place, unless it cures cancer or something and the product's merit is enough to carry it, which my projects certainly are not. 
 
 **Link to work:** [Random Quote Machine](https://github.com/MCStuart/random-quote-generator)
+
+### Day 4:: April 4, 2020
+
+**Today's Progress** Started a SMS messaging service with cron-job scheduler to send appropriate reminders to specific people for household chores (thanks corona). I have single messaging and cron-scheduled tasks down reliably, but broke everything last minute.
+
+**Thoughts** Twilio is a lot of fun. I tried to send out a batch job without using their messaging service for batch SMS jobs and it predictably didn't work. I changed it back to just my number to make sure everything else was still working but left the loop in so accidentally sent myself a huge amount of texts, almost locking up my phone before I realized what had happened. Whoops!
+
+**Link to work:** [House Scheduler](https://github.com/MCStuart/house-scheduler)
