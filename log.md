@@ -47,3 +47,11 @@
 **Thoughts** I had a lot of fun and easily spent twice as long as I thought did just tinkering. It is MVP and a certifiable mess of spagetti-code, but it works. I would love to find someone else to help me restructure this in a more professional way. It also needs a databse so the chores, housemates, phone numbers, etc. can be more easily altered. As it is, it's all hardcoded. There is also need for a hosting service so that I don't have to run it off my local computer. 
 
 **Link to work:** [House Scheduler](https://github.com/MCStuart/house-scheduler)
+
+### Day 6: April 6, 2020
+
+**Today's Progress** Not a lot of progress or success today. Explored cloud hosting solutions for the house scheduler app I created. Settled on Heroku with event scheduling and postgres db.
+
+**Thoughts** Not a lot of tangible work got done today, which is frustrating. Heroku was picked because of brief exposure to it months ago for another event scheduling task that barely worked. AWS seemed prohibitively esoteric and a SQL database is preferable to a noSQL one in this case. I hope to have a working product to deploy by end of day Thursday at the latest. 
+
+**Link to work:** [House Scheduler](https://github.com/MCStuart/house-scheduler)
