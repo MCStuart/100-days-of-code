@@ -55,3 +55,11 @@
 **Thoughts** Not a lot of tangible work got done today, which is frustrating. Heroku was picked because of brief exposure to it months ago for another event scheduling task that barely worked. AWS seemed prohibitively esoteric and a SQL database is preferable to a noSQL one in this case. I hope to have a working product to deploy by end of day Thursday at the latest. 
 
 **Link to work:** [House Scheduler](https://github.com/MCStuart/house-scheduler)
+
+### Day 7: April 7, 2020
+
+**Today's Progress** Made RDS (Relational Database Service) on AWS and connected to local pgAdmin, created tables, linked with Heroku.
+
+**Thoughts** I had to quit out of frustration today. There is something obvious I am missing. I hope a little more reading and sleeping on the problem will help me start fresh tomorrow, as I am hopelessly frustrated and stuck today. 
+
+**Link to work:** [House Scheduler](https://github.com/MCStuart/house-scheduler)
