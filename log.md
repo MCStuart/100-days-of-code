@@ -63,3 +63,11 @@
 **Thoughts** I had to quit out of frustration today. There is something obvious I am missing. I hope a little more reading and sleeping on the problem will help me start fresh tomorrow, as I am hopelessly frustrated and stuck today. 
 
 **Link to work:** [House Scheduler](https://github.com/MCStuart/house-scheduler)
+
+### Day 8: April 8, 2020
+
+**Today's Progress** Started CS50 and programmed in Scratch today. I'm creating a spaceship-shoots-aliens game and have a mooving background, keyboard controlled rocketship that changes depending on the key-press, and laser stars that shoot out from the front when the spacebar is held down. 
+
+**Thoughts** I had to take a break from my house-scheduler app. I don't know how to move forward so I will be talking with a friend tomorrow about it. I hope to be able to start it back up in the near future. Instead, today I started Harvard's CS50 class which I have heard so much about. The professor was exciting and explained things wonderfully. I hope to complete the class by the end of my #100DaysOfCode challenge.
+
+**Link to work:** [Spaceship-shoots-aliens]()
