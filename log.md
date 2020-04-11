@@ -71,3 +71,12 @@
 **Thoughts** I had to take a break from my house-scheduler app. I don't know how to move forward so I will be talking with a friend tomorrow about it. I hope to be able to start it back up in the near future. Instead, today I started Harvard's CS50 class which I have heard so much about. The professor was exciting and explained things wonderfully. I hope to complete the class by the end of my #100DaysOfCode challenge.
 
 **Link to work:** [Spaceship-shoots-aliens]()
+
+
+### Day 9: April 10, 2020
+
+**Today's Progress** Worked on my spaceship-shoots-aliens game to generate enemies and have them attack the ship. Will work on laser collision detection next.
+
+**Thoughts** I missed a day yesterday, so technically I already failed the challenge. I had a personal loss due to Covid19. Reast in peace, Aunt Nancy.
+
+**Link to work:** [Spaceship-shoots-aliens]()
