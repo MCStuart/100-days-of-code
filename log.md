@@ -72,7 +72,6 @@
 
 **Link to work:** [Spaceship-shoots-aliens]()
 
-
 ### Day 9: April 10, 2020
 
 **Today's Progress** Worked on my spaceship-shoots-aliens game to generate enemies and have them attack the ship. Will work on laser collision detection next.
@@ -80,3 +79,9 @@
 **Thoughts** I missed a day yesterday, so technically I already failed the challenge. I had a personal loss due to Covid19. Reast in peace, Aunt Nancy.
 
 **Link to work:** [Spaceship-shoots-aliens]()
+
+### Day 10: April 11, 2020
+
+**Today's Progress** Coded out sorting algorithms.
+
+**Thoughts** I started studying data structures and algorithms today. I've heard it's a very critical topic that a lot of code-schools and self-taught programmers miss. It is interesting, but hard. I will have to spend more time on it. 
