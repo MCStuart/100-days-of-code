@@ -85,3 +85,9 @@
 **Today's Progress** Coded out sorting algorithms.
 
 **Thoughts** I started studying data structures and algorithms today. I've heard it's a very critical topic that a lot of code-schools and self-taught programmers miss. It is interesting, but hard. I will have to spend more time on it. 
+
+### Day 11: April 12, 2020
+
+**Today's Progress** Worked on CS50 scratch project
+
+**Thoughts** N/A
