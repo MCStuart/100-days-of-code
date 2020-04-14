@@ -97,3 +97,9 @@
 **Today's Progress** Connected Heroku postgres db to pgAdmin, started working on db query string again.
 
 **Thoughts** This is way above my head. I really jumped in the deep end. The documentation assumes so much implied knowledge that it makes me feel really bad about myself. I know that this feeling will not go away any time soon so I will just have to learn how to lean into it and get through it.
+
+### Day 13: April 14, 2020
+
+**Today's Progress** None
+
+**Thoughts** Beat my head against the wall for a few hours with Heroku poostgres. No progress.
