@@ -91,3 +91,9 @@
 **Today's Progress** Worked on CS50 scratch project
 
 **Thoughts** N/A
+
+### Day 12: April 13, 2020
+
+**Today's Progress** Connected Heroku postgres db to pgAdmin, started working on db query string again.
+
+**Thoughts** This is way above my head. I really jumped in the deep end. The documentation assumes so much implied knowledge that it makes me feel really bad about myself. I know that this feeling will not go away any time soon so I will just have to learn how to lean into it and get through it.
