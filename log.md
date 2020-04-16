@@ -103,3 +103,9 @@
 **Today's Progress** None
 
 **Thoughts** Beat my head against the wall for a few hours with Heroku poostgres. No progress.
+
+### Day 14: April 15, 2020
+
+**Today's Progress** Managed to load Node packages into Lambda as dependencies and successfully run debugging tests
+
+**Thoughts** A lot of progress made today! Not a lot got done, but it was a big challenge to summit. Lots more work to be done. I attended my first virtual meetup event today and did algorithm practice with other people on a screen share. Very nerve wracking but fun. I forgot how much I enjoyed things like this.
