@@ -109,3 +109,10 @@
 **Today's Progress** Managed to load Node packages into Lambda as dependencies and successfully run debugging tests
 
 **Thoughts** A lot of progress made today! Not a lot got done, but it was a big challenge to summit. Lots more work to be done. I attended my first virtual meetup event today and did algorithm practice with other people on a screen share. Very nerve wracking but fun. I forgot how much I enjoyed things like this.
+
+
+### Day 15: April 17, 2020
+
+**Today's Progress** Set up cloudwatch, IAM permissions, RDS, and Route53
+
+**Thoughts** More AWS tomfoolery today. I would like to get back to 'real' coding soon in Lambda, but I have a fully architected project now! 
