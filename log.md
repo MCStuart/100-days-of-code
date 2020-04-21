@@ -116,3 +116,14 @@
 **Today's Progress** Set up cloudwatch, IAM permissions, RDS, and Route53
 
 **Thoughts** More AWS tomfoolery today. I would like to get back to 'real' coding soon in Lambda, but I have a fully architected project now! 
+  
+---
+## Challenge Failed, Restarted Count
+---
+
+### Day 1: April 20, 2020
+
+**Today's Progress** Did algorithm practice with someone I met on slack. They were simple string and array type problems.
+
+**Thoughts** I'm bummed I missed more than a day in a row. I only let myself down. I'm keeping things going anyway because I would really like to say that I successfully completed the #100DaysOfCode challenge.
+
