@@ -119,7 +119,6 @@
   
 ---
 ## Challenge Failed, Restarted Count
----
 
 ### Day 1: April 20, 2020
 
