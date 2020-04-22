@@ -126,3 +126,8 @@
 
 **Thoughts** I'm bummed I missed more than a day in a row. I only let myself down. I'm keeping things going anyway because I would really like to say that I successfully completed the #100DaysOfCode challenge.
 
+### Day 2: April 21, 2020
+
+**Today's Progress** Worked in AWS on RDS trying to connect it to lambda for function data.
+
+**Thoughts** AWS documentation is frustrating. I am obviously below their intended target demographic, knowledge wise and it shows.
