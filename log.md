@@ -131,3 +131,17 @@
 **Today's Progress** Worked in AWS on RDS trying to connect it to lambda for function data.
 
 **Thoughts** AWS documentation is frustrating. I am obviously below their intended target demographic, knowledge wise and it shows.
+
+### Day 3: April 22, 2020
+
+**Today's Progress** Worked on algorithms with someone I met on the Women Who Code (WWC) slack channel.
+
+**Thoughts** The algorithms were surprisingly harder than I expected, especially when having to work them out loud with someone else. Mental note taken for whiteboarding.
+
+### Day 4: April, 23, 2020
+
+**Today's Progress** Did more algorithms from freecodecamp after setting up Jest unit tests for independent verification. 
+
+**Thoughts** Testing is sweet! I can see it helping me focus on one problem at a time. I tend to work on too many problems at once, get lost and frustrated, and quit a project. Setting up testing on more projects is a must.
+
+**Link to work:** [Algorithms-Practice](https://github.com/MCStuart/algorithms-practice)
