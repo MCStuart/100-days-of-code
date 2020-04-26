@@ -145,3 +145,11 @@
 **Thoughts** Testing is sweet! I can see it helping me focus on one problem at a time. I tend to work on too many problems at once, get lost and frustrated, and quit a project. Setting up testing on more projects is a must.
 
 **Link to work:** [Algorithms-Practice](https://github.com/MCStuart/algorithms-practice)
+
+### Day 5: April, 25, 2020
+
+**Today's Progress** Finished the last algorithm, with more unit tests
+
+**Thoughts** Finished the last algorithm from yesterday with a little bit of time to spare so started investigating gatsby for making a portfolio website. Got a hello-world gatsby site up and running.
+
+**Link to work:** [Algorithms-Practice](https://github.com/MCStuart/algorithms-practice)
